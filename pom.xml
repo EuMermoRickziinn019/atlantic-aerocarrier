@@ -45,6 +45,11 @@
             <artifactId>msal4j</artifactId>
             <version>1.20.1</version>
         </dependency>
+        <dependency>
+            <groupId>com.submarino</groupId>
+            <artifactId>submarino-http-client</artifactId>
+            <version>1.0.0</version>
+        </dependency>
     </dependencies>
 
     <build>
